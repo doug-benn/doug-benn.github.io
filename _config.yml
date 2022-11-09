@@ -18,12 +18,12 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Doug's Blog/Portfolio # the main title
+title: Doug's Docs # the main title
 
-tagline: Things I find useful or interesting that I have created or modified # it will display as the sub-title
+tagline: Useful and interesting Code Snippets, Functions or Programs - Power Query, DAX, Python and Javascript # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Useful and interesting Code Snippets, Best Practices and Solved Problems - Power Query, DAX, Python and Javascript.
+  Useful and interesting Code Snippets, Functions or Programs - Power Query, DAX, Python and Javascript
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://doug-benn.github.io/'
@@ -37,8 +37,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Douglas Benn
+  email: douglas.b3nn@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # https://twitter.com/username # change to your twitter homepage
