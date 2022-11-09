@@ -1,5 +1,5 @@
 ---
-title: 'Hello, World!'
+title: '"Hello, World!"'
 date: 2022-11-09 18:00:00 +0100
 categories: [Hello World, First post]
 tags: [hello, world, python, javascript, first, post] # TAG names should always be lowercase
@@ -7,12 +7,12 @@ tags: [hello, world, python, javascript, first, post] # TAG names should always 
 
 # "Hello, World!"
 
-```python:
+```python
 print("Hello, World!")
 ```
 
-```javascript:
-console.log("Hello, World!")
+```javascript
+console.log('Hello, World!');
 ```
 
 "Hello, World!" seems like a good first post. It is usually the first thing one writes and runs when using a new language or a fresh installer/version.
